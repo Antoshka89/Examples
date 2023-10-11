@@ -1,0 +1,14 @@
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\bin\Debug\net7.0\Examples_1.exe
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\bin\Debug\net7.0\Examples_1.deps.json
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\bin\Debug\net7.0\Examples_1.runtimeconfig.json
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\bin\Debug\net7.0\Examples_1.dll
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\bin\Debug\net7.0\Examples_1.pdb
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\Examples_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\Examples_1.AssemblyInfoInputs.cache
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\Examples_1.AssemblyInfo.cs
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\Examples_1.csproj.CoreCompileInputs.cache
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\Examples_1.dll
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\refint\Examples_1.dll
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\Examples_1.pdb
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\Examples_1.genruntimeconfig.cache
+C:\Users\zhidy\OneDrive\Рабочий стол\Examples\Examples_1\obj\Debug\net7.0\ref\Examples_1.dll
